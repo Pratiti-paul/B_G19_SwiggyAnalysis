@@ -1,3 +1,3 @@
 Contributors:
-Pratiti Paul
-Krishiv
+- Pratiti Paul
+- Krishiv
