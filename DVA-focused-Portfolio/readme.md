@@ -7,3 +7,4 @@ These are the portfolios of the team members:
 - Ravichandra : [Portfolio](<https://ravichandra531.github.io/ProfileDVA/#>)
 - Aarush Gupta : [Portfolio](<https://aaru5h.github.io/DVA-Portfolio/>)
 - Utkarsh : [Portfolio](<Portfolio_Link_Here>)
+- Satvik Prasad : [Portfolio](<https://satvikprsd.github.io/DVA_Portfolio/>)
